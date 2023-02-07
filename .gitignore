@@ -1,0 +1,13 @@
+.idea/
+target/
+*.iml
+.project
+.classpath
+.settings/
+.vscode/
+.DS_Store
+.meghanada/*
+*~
+\#*\#
+.\#*
+searchIndex/
